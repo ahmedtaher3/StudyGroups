@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.chi.azharfirstapp.MainActivity">
+<item
+    android:id="@+id/addContent"
+    android:icon="@android:drawable/ic_input_add"
+    android:orderInCategory="100"
+    android:title="add content"
+    app:showAsAction="ifRoom" />
+
+<item
+    android:id="@+id/myContent"
+    android:icon="@android:drawable/ic_input_add"
+    android:orderInCategory="100"
+    android:title="my content"
+    app:showAsAction="ifRoom" />
+<item
+    android:id="@+id/refresh"
+    android:icon="@drawable/refresh_icon"
+    android:orderInCategory="100"
+    android:title="Refresh"
+    app:showAsAction="always" />
+</menu>

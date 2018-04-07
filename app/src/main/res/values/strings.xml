@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kinds_array">
+        <item>Dessert</item>
+        <item>Meal</item>
+
+    </string-array>
+
+    <!--<string name="app_name">Sign In&amp;Up</string>-->
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="DefaultButtonText2">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <string name="title_activity_group">group</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_subject">subject</string>
+    <string name="title_activity_sign_in">Log in</string>
+    <string name="title_activity_groups">Group</string>
+    <string name="title_activity_feedback">Feedback</string>
+
+
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+
+
+    <string name="parse_app_id">3NFWt2lj92pd7IppNlOoqOU8A2BfIKra9JCYpt5i</string>
+    <string name="parse_client_key">PLJEIv9M6TEaPIztWbxObsli6i8ESoWYCHVaPQlL</string>
+    <!--<string name="parse_client_key">dQMlsZSr5D8ukGy4qDlvr2cmudxJMERIzkk7JuE5</string>-->
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_add_content">AddContent</string>
+
+    <string name="app_name">Sign In&amp;Up</string>
+
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <style name="ButtonText2">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#0277BD</item>
+        <item name="android:gravity">center</item>
+
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <string name="title_activity_aboutsg">About Study Groups</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="action_sign_in_register"><b>Sign in</b> or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_intro">"Please "</string>
+    <string name="error_blank_username">enter a username</string>
+    <string name="error_blank_email">enter a email</string>
+    <string name="error_short_password">your password should contain at least 6 characters </string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="title_activity_abouut">abouut</string>
+    <string name="title_activity_grouups">grouups</string>
+    <string name="title_activity_contactus">Map</string>
+    <string name="title_activity_contactuus">contactuus</string>
+    <string name="title_activity_about_home">about_home</string>
+    <string name="title_activity_about_sha">about_sha</string>
+    <string name="title_activity_bout_sg">bout_sg</string>
+    <string name="title_activity_tabessactivity">Tabessactivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_updateuserinfo">updateuserinfo</string>
+    <string name="title_activity_update__user__info">Update_User_Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_update__userinfo">Update_Userinfo</string>
+    <string name="title_activity_userinfo">userinfo</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Students!</string>
+    <string name="slide_1_desc">The easiest way to to study with your friends!</string>
+
+    <string name="slide_2_title">Choose Groups </string>
+
+
+    <string name="slide_3_title">Group Data</string>
+    <string name="slide_3_desc">Download and upload data in the groups! </string>
+
+    <string name="slide_4_title">Get Started</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_groups_content">GroupsContent</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "700487713274",
+    "firebase_url": "https://studygroups-53a7b.firebaseio.com",
+    "project_id": "studygroups-53a7b",
+    "storage_bucket": "studygroups-53a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700487713274:android:6177faf4be9b2610",
+        "android_client_info": {
+          "package_name": "com.example.ataher.studygroups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700487713274-uidk23mbkookp02kbm1gr8t31cm05va0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXG7It6wtlK-VKpUkM_R47rxVxWIxeSsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

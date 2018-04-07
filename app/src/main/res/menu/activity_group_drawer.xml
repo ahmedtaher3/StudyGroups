@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@android:drawable/ic_search_category_default"
+            android:title="Join new group" />
+
+
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_sendfeedback"
+            android:title="Send Feedback" />
+
+    </group>
+
+    <item android:title="info">
+        <menu>
+            <item
+                android:id="@+id/nav_about_sg"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="About SG" />
+            <item
+                android:id="@+id/nav_about_sh"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="About SH.A" />
+        </menu>
+    </item>
+
+    <item android:title="Account">
+
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@android:drawable/ic_menu_slideshow"
+                android:title="edit my profile" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Log Out" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>
